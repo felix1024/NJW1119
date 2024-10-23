@@ -1,7 +1,7 @@
 # NJW1119
 
 Arduino library for communicating with the NJW1119 audio tone control chip. It has two channels a & b and independet controls for treble, mid and bass.
-The data sheets can be found [here](ihttps://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJW1119A_E.pdf) (pdf).
+The data sheets can be found [here](https://www.nisshinbo-microdevices.co.jp/en/pdf/datasheet/NJW1119A_E.pdf) (pdf).
 
 ## Download
 
