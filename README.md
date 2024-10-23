@@ -34,12 +34,13 @@ void setup()
 
 void loop()
 {
+  // adjust treble, mid and bass for both channels a & b
+  // use two args in call to control a & b channel differently
   njw.setTreble(currentTreble;
   njw.setMid(currentMid);
   njw.setBass(currentBass);
 
   delay(10);
-  // the set Tone calls can also have two args to control channel a & b indepently.
 }
 
 ```
